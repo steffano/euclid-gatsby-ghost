@@ -347,6 +347,7 @@ img,
 svg,
 video {
     vertical-align: middle;
+    text-align: center;
 }
 
 fieldset {
@@ -1159,4 +1160,13 @@ h6 {
   .kg-image-card.kg-width-wide + .kg-gallery-card,
   .kg-image-card.kg-width-wide + .kg-image-card.kg-width-wide {
     margin: -2.25em 0 3em;
+  }
+
+  .kg-embed-card {
+    text-align: center;
+  }
+
+  iframe {
+      height: 14em;
+      width: 22em;
   }

@@ -23,7 +23,9 @@ const Post = ({ data, location }) => {
                 type="article"
             />
             <Helmet>
-                <style type="text/css">{`${post.codeinjection_styles}`}</style>
+                <style type="text/css">
+                    {`${post.codeinjection_styles}`}
+                    </style>
             </Helmet>
             <Layout>
                 <div className="container">
