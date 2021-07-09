@@ -57,8 +57,8 @@
     "source-map" "^0.5.0"
 
 "@babel/core@7.10.5":
-  "integrity" "sha512-O34LQooYVDXPl7QWCdW9p4NR+QlzOr7xShPPJz8GsuCU3/8ua/wqTr7gmnxXv+WBESiGU/G5s16i6tUvHkNb+w=="
-  "resolved" "https://registry.npmjs.org/@babel/core/-/core-7.10.5.tgz"
+  "integrity" "sha1-HxXizKitmh14o43bphL158270zA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@babel/core/-/core-7.10.5.tgz"
   "version" "7.10.5"
   dependencies:
     "@babel/code-frame" "^7.10.4"
@@ -226,8 +226,8 @@
   "version" "7.14.5"
 
 "@babel/helper-plugin-utils@7.10.4":
-  "integrity" "sha512-O4KCvQA6lLiMU9l2eawBPMf1xPP8xPfB3iEQw150hOVTqj/rfXz0ThTb4HEzqQfs2Bmo5Ay8BzxfzVtBrr9dVg=="
-  "resolved" "https://registry.npmjs.org/@babel/helper-plugin-utils/-/helper-plugin-utils-7.10.4.tgz"
+  "integrity" "sha1-L3WoMSadT2d95JmG3/WZJ1M883U="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@babel/helper-plugin-utils/-/helper-plugin-utils-7.10.4.tgz"
   "version" "7.10.4"
 
 "@babel/helper-remap-async-to-generator@^7.14.5":
@@ -408,8 +408,8 @@
     "@babel/plugin-transform-parameters" "^7.14.5"
 
 "@babel/plugin-proposal-object-rest-spread@7.10.4":
-  "integrity" "sha512-6vh4SqRuLLarjgeOf4EaROJAHjvu9Gl+/346PbDH9yWbJyfnJ/ah3jmYKYtswEyCoWZiidvVHjHshd4WgjB9BA=="
-  "resolved" "https://registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.10.4.tgz"
+  "integrity" "sha1-UBKawha5pqVbOFP92SPnS/VTpMA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.10.4.tgz"
   "version" "7.10.4"
   dependencies:
     "@babel/helper-plugin-utils" "^7.10.4"
@@ -509,8 +509,8 @@
     "@babel/helper-plugin-utils" "^7.14.5"
 
 "@babel/plugin-syntax-jsx@7.10.4":
-  "integrity" "sha512-KCg9mio9jwiARCB7WAcQ7Y1q+qicILjoK8LP/VkPkEKaf5dkaZZK1EcTe91a3JJlZ3qy6L5s9X52boEYi8DM9g=="
-  "resolved" "https://registry.npmjs.org/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.10.4.tgz"
+  "integrity" "sha1-Oauq48v3EMQ3PYQpSE5rohNAFmw="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.10.4.tgz"
   "version" "7.10.4"
   dependencies:
     "@babel/helper-plugin-utils" "^7.10.4"
@@ -1021,8 +1021,8 @@
     "regenerator-runtime" "^0.13.4"
 
 "@babel/standalone@^7.14.0":
-  "integrity" "sha512-7RlfMPR4604SbYpj5zvs2ZK587hVhixgU9Pd9Vs8lB8KYtT3U0apXSf0vZXhy8XRh549eUmJOHXhWKTO3ObzOQ=="
-  "resolved" "https://registry.npmjs.org/@babel/standalone/-/standalone-7.14.7.tgz"
+  "integrity" "sha1-aGNdoAXWo0oCWVmeByDS5zEz7MM="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@babel/standalone/-/standalone-7.14.7.tgz"
   "version" "7.14.7"
 
 "@babel/template@^7.10.4", "@babel/template@^7.14.0", "@babel/template@^7.14.5":
@@ -1282,8 +1282,8 @@
   "version" "2.2.5"
 
 "@jest/types@^25.5.0":
-  "integrity" "sha512-OXD0RgQ86Tu3MazKo8bnrkDRaDXXMGUqd+kTtLtK1Zb7CRzQcaSRPPPV37SvYTdevXEBVxe0HXylEjs8ibkmCw=="
-  "resolved" "https://registry.npmjs.org/@jest/types/-/types-25.5.0.tgz"
+  "integrity" "sha1-TWpHk/e5WZ/DaAh3uFapfbzPKp0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@jest/types/-/types-25.5.0.tgz"
   "version" "25.5.0"
   dependencies:
     "@types/istanbul-lib-coverage" "^2.0.0"
@@ -1582,8 +1582,8 @@
     "regenerator-runtime" "^0.13.3"
 
 "@mdx-js/util@^2.0.0-next.8":
-  "integrity" "sha512-T0BcXmNzEunFkuxrO8BFw44htvTPuAoKbLvTG41otyZBDV1Rs+JMddcUuaP5vXpTWtgD3grhcrPEwyx88RUumQ=="
-  "resolved" "https://registry.npmjs.org/@mdx-js/util/-/util-2.0.0-next.8.tgz"
+  "integrity" "sha1-ZuzCe3jgej6i6xqPxamd+gupZpA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@mdx-js/util/-/util-2.0.0-next.8.tgz"
   "version" "2.0.0-next.8"
 
 "@microsoft/fetch-event-source@2.0.1":
@@ -1860,28 +1860,28 @@
     "@types/node" "*"
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
-  "integrity" "sha512-sz7iLqvVUg1gIedBOvlkxPlc8/uVzyS5OwGz1cKjXzkl3FpL3al0crU8YGU1WoHkxn0Wxbw5tyi6hvzJKNzFsw=="
-  "resolved" "https://registry.npmjs.org/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz"
+  "integrity" "sha1-S6jdtyAiH0MuRDvV+RF/0iz9R2I="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.3.tgz"
   "version" "2.0.3"
 
 "@types/istanbul-lib-report@*":
-  "integrity" "sha512-plGgXAPfVKFoYfa9NpYDAkseG+g6Jr294RqeqcqDixSbU34MZVJRi/P+7Y8GDpzkEwLaGZZOpKIEmeVZNtKsrg=="
-  "resolved" "https://registry.npmjs.org/@types/istanbul-lib-report/-/istanbul-lib-report-3.0.0.tgz"
+  "integrity" "sha1-wUwk8Y6oGQwRjudWK3/5mjZVJoY="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/istanbul-lib-report/-/istanbul-lib-report-3.0.0.tgz"
   "version" "3.0.0"
   dependencies:
     "@types/istanbul-lib-coverage" "*"
 
 "@types/istanbul-reports@^1.1.1":
-  "integrity" "sha512-P/W9yOX/3oPZSpaYOCQzGqgCQRXn0FFO/V8bWrCQs+wLmvVVxk6CRBXALEvNs9OHIatlnlFokfhuDo2ug01ciw=="
-  "resolved" "https://registry.npmjs.org/@types/istanbul-reports/-/istanbul-reports-1.1.2.tgz"
+  "integrity" "sha1-6HXMaJ5HvOVJ7IHz315vbxHPrrI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/istanbul-reports/-/istanbul-reports-1.1.2.tgz"
   "version" "1.1.2"
   dependencies:
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
 "@types/json-patch@0.0.30":
-  "integrity" "sha512-MhCUjojzDhVLnZnxwPwa+rETFRDQ0ffjxYdrqOP6TBO2O0/Z64PV5tNeYApo4bc4y4frbWOrRwv/eEkXlI13Rw=="
-  "resolved" "https://registry.npmjs.org/@types/json-patch/-/json-patch-0.0.30.tgz"
+  "integrity" "sha1-fFYhcyFsUFKecBJs6456Uz+GXps="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/json-patch/-/json-patch-0.0.30.tgz"
   "version" "0.0.30"
 
 "@types/json-schema@*", "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.6", "@types/json-schema@^7.0.7":
@@ -2011,9 +2011,9 @@
   "version" "0.0.33"
 
 "@types/unist@^2.0.0", "@types/unist@^2.0.2":
-  "integrity" "sha512-FvUupuM3rlRsRtCN+fDudtmytGO6iHJuuRKS1Ss0pG5z8oX0diNEw94UEL7hgDbpN94rgaK5R7sWm6RrSkZuAQ=="
-  "resolved" "https://registry.npmjs.org/@types/unist/-/unist-2.0.3.tgz"
-  "version" "2.0.3"
+  "integrity" "sha1-/dKZ8jIFw0Va+IzmGN1lwUy3PiI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/unist/-/unist-2.0.5.tgz"
+  "version" "2.0.5"
 
 "@types/websocket@1.0.2":
   "integrity" "sha512-B5m9aq7cbbD/5/jThEr33nUY8WEfVi6A2YKCTOvw5Ldy7mtsOkqRvGjnzy6g7iMMDsgu7xREuCzqATLDLQVKcQ=="
@@ -2023,20 +2023,20 @@
     "@types/node" "*"
 
 "@types/yargs-parser@*":
-  "integrity" "sha512-37RSHht+gzzgYeobbG+KWryeAW8J33Nhr69cjTqSYymXVZEN9NbRYWoYlRtDhHKPVT1FyNKwaTPC1NynKZpzRA=="
-  "resolved" "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-20.2.0.tgz"
-  "version" "20.2.0"
+  "integrity" "sha1-O5ziSJkZ2eT+pDm3aRarw0st8Sk="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/yargs-parser/-/yargs-parser-20.2.1.tgz"
+  "version" "20.2.1"
 
 "@types/yargs@^15.0.0":
-  "integrity" "sha512-kQ5JNTrbDv3Rp5X2n/iUu37IJBDU2gsZ5R/g1/KHOOEc5IKfUFjXT6DENPGduh08I/pamwtEq4oul7gUqKTQDQ=="
-  "resolved" "https://registry.npmjs.org/@types/yargs/-/yargs-15.0.13.tgz"
-  "version" "15.0.13"
+  "integrity" "sha1-Jtgh3biecEkhYLZtEKDrbfj2+wY="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/yargs/-/yargs-15.0.14.tgz"
+  "version" "15.0.14"
   dependencies:
     "@types/yargs-parser" "*"
 
 "@types/yoga-layout@1.9.2":
-  "integrity" "sha512-S9q47ByT2pPvD65IvrWp7qppVMpk9WGMbVq9wbWZOHg6tnXSD4vyhao6nOSBwwfDdV2p3Kx9evA9vI+XWTfDvw=="
-  "resolved" "https://registry.npmjs.org/@types/yoga-layout/-/yoga-layout-1.9.2.tgz"
+  "integrity" "sha1-76+emRpzkNwIGgtnkYWXmoOpY5o="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/@types/yoga-layout/-/yoga-layout-1.9.2.tgz"
   "version" "1.9.2"
 
 "@typescript-eslint/eslint-plugin@^4.0.0", "@typescript-eslint/eslint-plugin@^4.15.2":
@@ -2265,8 +2265,8 @@
   "version" "7.4.1"
 
 "acorn@^8.0.0":
-  "integrity" "sha512-asabaBSkEKosYKMITunzX177CXxQ4Q8BSSzMTKD+FefUhipQC70gfW5SiUDhYQ3vk8G+81HqQk7Fv9OXwwn9KA=="
-  "resolved" "https://registry.npmjs.org/acorn/-/acorn-8.4.1.tgz"
+  "integrity" "sha1-VsNiUfx8q8cJatwY8Fr+gUMhoow="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/acorn/-/acorn-8.4.1.tgz"
   "version" "8.4.1"
 
 "acorn@^8.2.1":
@@ -2377,8 +2377,8 @@
   "version" "4.1.0"
 
 "ansi-regex@^5.0.0":
-  "integrity" "sha512-bY6fj56OUQ0hU1KjFNDQuJFezqKdrAyFdIevADiqrWHwSlbmBNMHp5ak2f40Pm8JTFyM2mqxkG6ngkHO11f/lg=="
-  "resolved" "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.0.tgz"
+  "integrity" "sha1-OIU59VF5vzkznIGvMKZU1p+Hy3U="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/ansi-regex/-/ansi-regex-5.0.0.tgz"
   "version" "5.0.0"
 
 "ansi-styles@^2.2.1":
@@ -2821,8 +2821,8 @@
   "version" "1.0.2"
 
 "bail@^1.0.0":
-  "integrity" "sha512-xFbRxM1tahm08yHBP16MMjVUAvDaBMD38zsM9EMAUN61omwLmKlOpB/Zku5QkjZ8TZ4vn53pj+t518cH0S03RQ=="
-  "resolved" "https://registry.npmjs.org/bail/-/bail-1.0.5.tgz"
+  "integrity" "sha1-tvoTNASjksvB+MS/Y/WVM1Hnp3Y="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/bail/-/bail-1.0.5.tgz"
   "version" "1.0.5"
 
 "balanced-match@^1.0.0":
@@ -3311,8 +3311,8 @@
     "url-to-options" "^1.0.1"
 
 "ccount@^1.0.0":
-  "integrity" "sha512-vlNK021QdI7PNeiUh/lKkC/mNHHfV0m/Ad5JoI0TYtlBnJAslM/JIkm/tGC88bkLIwO6OQ5uV6ztS6kVAtCDlg=="
-  "resolved" "https://registry.npmjs.org/ccount/-/ccount-1.1.0.tgz"
+  "integrity" "sha1-JGaH3rtgFHNRMb6KurLZOJj40EM="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/ccount/-/ccount-1.1.0.tgz"
   "version" "1.1.0"
 
 "chalk@^1.0.0":
@@ -3336,8 +3336,8 @@
     "supports-color" "^5.3.0"
 
 "chalk@^3.0.0":
-  "integrity" "sha512-4D3B6Wf41KOYRFdszmDqMCGq5VV/uMAB273JILmO+3jAlh8X4qDtdtgCR3fxtbLEMzSx22QdhnDcJvu2u1fVwg=="
-  "resolved" "https://registry.npmjs.org/chalk/-/chalk-3.0.0.tgz"
+  "integrity" "sha1-P3PCv1JlkfV0zEksUeJFY0n4ROQ="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/chalk/-/chalk-3.0.0.tgz"
   "version" "3.0.0"
   dependencies:
     "ansi-styles" "^4.1.0"
@@ -3360,23 +3360,23 @@
     "supports-color" "^7.1.0"
 
 "character-entities-html4@^1.0.0":
-  "integrity" "sha512-HRcDxZuZqMx3/a+qrzxdBKBPUpxWEq9xw2OPZ3a/174ihfrQKVsFhqtthBInFy1zZ9GgZyFXOatNujm8M+El3g=="
-  "resolved" "https://registry.npmjs.org/character-entities-html4/-/character-entities-html4-1.1.4.tgz"
+  "integrity" "sha1-DmSwo3U92/H9wETF/QHQGZoC4SU="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/character-entities-html4/-/character-entities-html4-1.1.4.tgz"
   "version" "1.1.4"
 
 "character-entities-legacy@^1.0.0":
-  "integrity" "sha512-3Xnr+7ZFS1uxeiUDvV02wQ+QDbc55o97tIV5zHScSPJpcLm/r0DFPcoY3tYRp+VZukxuMeKgXYmsXQHO05zQeA=="
-  "resolved" "https://registry.npmjs.org/character-entities-legacy/-/character-entities-legacy-1.1.4.tgz"
+  "integrity" "sha1-lLwYRdznClu50uzHSHJWYSk9j8E="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/character-entities-legacy/-/character-entities-legacy-1.1.4.tgz"
   "version" "1.1.4"
 
 "character-entities@^1.0.0":
-  "integrity" "sha512-iBMyeEHxfVnIakwOuDXpVkc54HijNgCyQB2w0VfGQThle6NXn50zU6V/u+LDhxHcDUPojn6Kpga3PTAD8W1bQw=="
-  "resolved" "https://registry.npmjs.org/character-entities/-/character-entities-1.2.4.tgz"
+  "integrity" "sha1-4Sw5Obfq9OWxXnrUxeKOHUjFsWs="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/character-entities/-/character-entities-1.2.4.tgz"
   "version" "1.2.4"
 
 "character-reference-invalid@^1.0.0":
-  "integrity" "sha512-mKKUkUbhPpQlCOfIuZkvSEgktjPFIsZKRRbC6KWVEMvlzblj3i3asQv5ODsrwt0N3pHAEvjP8KTQPHkp0+6jOg=="
-  "resolved" "https://registry.npmjs.org/character-reference-invalid/-/character-reference-invalid-1.1.4.tgz"
+  "integrity" "sha1-CDMpzaDq4nKrPbvzfpo4LBOvFWA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/character-reference-invalid/-/character-reference-invalid-1.1.4.tgz"
   "version" "1.1.4"
 
 "chardet@^0.7.0":
@@ -3581,8 +3581,8 @@
   "version" "1.1.0"
 
 "collapse-white-space@^1.0.2":
-  "integrity" "sha512-jEovNnrhMuqyCcjfEJA56v0Xq8SkIoPKDyaHahwo3POf4qcSXqMYuwNcOTzp74vTsR9Tn08z4MxWqAhcekogkQ=="
-  "resolved" "https://registry.npmjs.org/collapse-white-space/-/collapse-white-space-1.0.6.tgz"
+  "integrity" "sha1-5jYpwAFmZXkgYNu+t5xCI50sUoc="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/collapse-white-space/-/collapse-white-space-1.0.6.tgz"
   "version" "1.0.6"
 
 "collection-visit@^1.0.0":
@@ -3768,9 +3768,9 @@
   "version" "1.0.4"
 
 "contentful-management@^7.5.1":
-  "integrity" "sha512-V8tcSHw3MwWKWHWMW+AZB6lP31hreos+v2gtayZczWXYRcfd+owt+qVjbkLZk1pL80ewSmc8Pl1A7rM/oB2ldw=="
-  "resolved" "https://registry.npmjs.org/contentful-management/-/contentful-management-7.25.1.tgz"
-  "version" "7.25.1"
+  "integrity" "sha1-uoNdZDa3MLiDm0XHg0zuufK2Kj8="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/contentful-management/-/contentful-management-7.27.1.tgz"
+  "version" "7.27.1"
   dependencies:
     "@types/json-patch" "0.0.30"
     "axios" "^0.21.0"
@@ -3780,8 +3780,8 @@
     "type-fest" "^0.20.2"
 
 "contentful-sdk-core@^6.8.0":
-  "integrity" "sha512-X45uNrcbQ2qY2p4G/Wx2EFUdnLnoDXjw29i+d0JVTUXqCG58p3q4GHuAPzTX+uafJL4h0ZY2xPOn4nvJ83eRBQ=="
-  "resolved" "https://registry.npmjs.org/contentful-sdk-core/-/contentful-sdk-core-6.8.0.tgz"
+  "integrity" "sha1-s+JNwciURLAh3t4mBiRR2eE9th8="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/contentful-sdk-core/-/contentful-sdk-core-6.8.0.tgz"
   "version" "6.8.0"
   dependencies:
     "fast-copy" "^2.1.0"
@@ -3905,10 +3905,10 @@
     "path-type" "^4.0.0"
     "yaml" "^1.10.0"
 
-"create-gatsby@^1.8.0":
-  "integrity" "sha512-AW3PZONTFfTMKmUfHbpwHebL8/QCbQ0qPwH9piNHen4/7EeZyaN7ZzeilKMUue4DEi9Om7VKlZtW+bKcVml3bg=="
-  "resolved" "https://registry.npmjs.org/create-gatsby/-/create-gatsby-1.8.0.tgz"
-  "version" "1.8.0"
+"create-gatsby@^1.9.0":
+  "integrity" "sha1-jCJXAG+zUTUj6T7og7IvNX/ASDI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/create-gatsby/-/create-gatsby-1.9.0.tgz"
+  "version" "1.9.0"
 
 "create-react-context@0.3.0":
   "integrity" "sha512-dNldIoSuNSvlTJ7slIKC/ZFGKexBMBrrcc+TTe1NdmROnaASuLPvqpwj9v4XS4uXZ8+YPu0sNmShX2rXI5LNsw=="
@@ -4491,7 +4491,7 @@
 
 "detect-newline@^1.0.3":
   "integrity" "sha1-6XsQA4d9cMCa8a81v63/Fo3kkg0="
-  "resolved" "https://registry.npmjs.org/detect-newline/-/detect-newline-1.0.3.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/detect-newline/-/detect-newline-1.0.3.tgz"
   "version" "1.0.3"
   dependencies:
     "get-stdin" "^4.0.1"
@@ -4555,8 +4555,8 @@
     "streamsearch" "0.1.2"
 
 "diff-sequences@^25.2.6":
-  "integrity" "sha512-Hq8o7+6GaZeoFjtpgvRBUknSXNeJiCx7V9Fr94ZMljNiCr9n9L8H8aJqgWOQiDDGdyn29fRNcDdRVJ5fdyihfg=="
-  "resolved" "https://registry.npmjs.org/diff-sequences/-/diff-sequences-25.2.6.tgz"
+  "integrity" "sha1-X0Z8AO3TU1K3vKRteSfWDmh6dt0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/diff-sequences/-/diff-sequences-25.2.6.tgz"
   "version" "25.2.6"
 
 "diff@^4.0.1":
@@ -5355,8 +5355,8 @@
   "version" "5.2.0"
 
 "estree-util-is-identifier-name@^1.0.0":
-  "integrity" "sha512-OVJZ3fGGt9By77Ix9NhaRbzfbDV/2rx9EP7YIDJTmsZSEc5kYn2vWcNccYyahJL2uAQZK2a5Or2i0wtIKTPoRQ=="
-  "resolved" "https://registry.npmjs.org/estree-util-is-identifier-name/-/estree-util-is-identifier-name-1.1.0.tgz"
+  "integrity" "sha1-LjSI6gbZ6i+s4RYFiGT2Nws3RW0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/estree-util-is-identifier-name/-/estree-util-is-identifier-name-1.1.0.tgz"
   "version" "1.1.0"
 
 "esutils@^2.0.2":
@@ -5496,6 +5496,16 @@
   "resolved" "https://registry.npmjs.org/expand-template/-/expand-template-2.0.3.tgz"
   "version" "2.0.3"
 
+"express-graphql@^0.12.0":
+  "integrity" "sha1-WN6rwwmQnKLJ/i+D9fvpRCmqI98="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/express-graphql/-/express-graphql-0.12.0.tgz"
+  "version" "0.12.0"
+  dependencies:
+    "accepts" "^1.3.7"
+    "content-type" "^1.0.4"
+    "http-errors" "1.8.0"
+    "raw-body" "^2.4.1"
+
 "express-graphql@^0.9.0":
   "integrity" "sha512-wccd9Lb6oeJ8yHpUs/8LcnGjFUUQYmOG9A5BNLybRdCzGw0PeUrtBxsIR8bfiur6uSW4OvPkVDoYH06z6/N9+w=="
   "resolved" "https://registry.npmjs.org/express-graphql/-/express-graphql-0.9.0.tgz"
@@ -5588,8 +5598,8 @@
     "is-extendable" "^1.0.1"
 
 "extend@^3.0.0":
-  "integrity" "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g=="
-  "resolved" "https://registry.npmjs.org/extend/-/extend-3.0.2.tgz"
+  "integrity" "sha1-+LETa0Bx+9jrFAr/hYsQGewpFfo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/extend/-/extend-3.0.2.tgz"
   "version" "3.0.2"
 
 "external-editor@^3.0.3":
@@ -5621,8 +5631,8 @@
   "version" "9.0.0"
 
 "fast-copy@^2.1.0":
-  "integrity" "sha512-Qod3DdRgFZ8GUIM6ygeoZYpQ0QLW9cf/FS9KhhjlYggcSZXWAemAw8BOCO5LuYCrR3Uj3qXDVTUzOUwG8C7beQ=="
-  "resolved" "https://registry.npmjs.org/fast-copy/-/fast-copy-2.1.1.tgz"
+  "integrity" "sha1-9cvPLfZCFeWbjkPwssqrwZhICDo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/fast-copy/-/fast-copy-2.1.1.tgz"
   "version" "2.1.1"
 
 "fast-deep-equal@^3.1.1", "fast-deep-equal@^3.1.3":
@@ -6096,9 +6106,9 @@
     "lodash" "^4.17.21"
 
 "gatsby-cli@^3.8.0":
-  "integrity" "sha512-81rQNDgHgkXoFMiwluZGN0ETKonGn8tl1uxL3OpOx3aOfP1aPv5NBSOLX70O6vo9jXyg6oy0gPHGjhbQMdSyIw=="
-  "resolved" "https://registry.npmjs.org/gatsby-cli/-/gatsby-cli-3.8.0.tgz"
-  "version" "3.8.0"
+  "integrity" "sha1-DIunb9Bh0Jc5/2nhwvc9COVcLFI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/gatsby-cli/-/gatsby-cli-3.9.0.tgz"
+  "version" "3.9.0"
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@types/common-tags" "^1.8.0"
@@ -6108,14 +6118,14 @@
     "common-tags" "^1.8.0"
     "configstore" "^5.0.1"
     "convert-hrtime" "^3.0.0"
-    "create-gatsby" "^1.8.0"
+    "create-gatsby" "^1.9.0"
     "envinfo" "^7.7.3"
     "execa" "^3.4.0"
     "fs-exists-cached" "^1.0.0"
     "fs-extra" "^8.1.0"
-    "gatsby-core-utils" "^2.8.0"
-    "gatsby-recipes" "^0.19.0"
-    "gatsby-telemetry" "^2.8.0"
+    "gatsby-core-utils" "^2.9.0"
+    "gatsby-recipes" "^0.20.0"
+    "gatsby-telemetry" "^2.9.0"
     "hosted-git-info" "^3.0.6"
     "is-valid-path" "^0.1.1"
     "joi" "^17.4.0"
@@ -6139,10 +6149,10 @@
     "yoga-layout-prebuilt" "^1.9.6"
     "yurnalist" "^2.1.0"
 
-"gatsby-core-utils@^2.8.0":
-  "integrity" "sha512-CadvILN4ZyYMYQAp+haxSgE/0k5zIu6y2WcqVSJaQLmmWq0o49Gv4CftVKOEXOtXaN0DEr9e4wWFVBRAYaRHGA=="
-  "resolved" "https://registry.npmjs.org/gatsby-core-utils/-/gatsby-core-utils-2.8.0.tgz"
-  "version" "2.8.0"
+"gatsby-core-utils@^2.8.0", "gatsby-core-utils@^2.9.0":
+  "integrity" "sha1-8bow36aHvdLBxRBtKeZJHlN26MU="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/gatsby-core-utils/-/gatsby-core-utils-2.9.0.tgz"
+  "version" "2.9.0"
   dependencies:
     "ci-info" "2.0.0"
     "configstore" "^5.0.1"
@@ -6355,10 +6365,10 @@
   dependencies:
     "@babel/runtime" "^7.14.0"
 
-"gatsby-recipes@^0.19.0":
-  "integrity" "sha512-yboFABHUNB9+1x/RA13yKU/P0/2K+SaenudC+THshxL4uiUHlbU029iXp6Di2zMfIhak8aZ7FyUrpCieey/0Rw=="
-  "resolved" "https://registry.npmjs.org/gatsby-recipes/-/gatsby-recipes-0.19.0.tgz"
-  "version" "0.19.0"
+"gatsby-recipes@^0.20.0":
+  "integrity" "sha1-ak2HwUAoHOPc7S52LaGH7ZiPjoI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/gatsby-recipes/-/gatsby-recipes-0.20.0.tgz"
+  "version" "0.20.0"
   dependencies:
     "@babel/core" "^7.14.0"
     "@babel/generator" "^7.14.0"
@@ -6381,10 +6391,10 @@
     "dotenv" "^8.2.0"
     "execa" "^4.0.2"
     "express" "^4.17.1"
-    "express-graphql" "^0.9.0"
+    "express-graphql" "^0.12.0"
     "fs-extra" "^8.1.0"
-    "gatsby-core-utils" "^2.8.0"
-    "gatsby-telemetry" "^2.8.0"
+    "gatsby-core-utils" "^2.9.0"
+    "gatsby-telemetry" "^2.9.0"
     "glob" "^7.1.6"
     "graphql" "^15.4.0"
     "graphql-compose" "~7.25.0"
@@ -6449,10 +6459,10 @@
     "gatsby-node-helpers" "0.3.0"
     "qs" "6.10.1"
 
-"gatsby-telemetry@^2.8.0":
-  "integrity" "sha512-MlV9Lbminhsz1MUiWJJvZ+8VVhIYBl2AsxJylckGoUp+skGfNq5d3pWSv+u/nU4zVP8T1HUWc1c7KSVq6ggrbw=="
-  "resolved" "https://registry.npmjs.org/gatsby-telemetry/-/gatsby-telemetry-2.8.0.tgz"
-  "version" "2.8.0"
+"gatsby-telemetry@^2.8.0", "gatsby-telemetry@^2.9.0":
+  "integrity" "sha1-1nY7J4vuYB3QB6hEJ7rFLleijXk="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/gatsby-telemetry/-/gatsby-telemetry-2.9.0.tgz"
+  "version" "2.9.0"
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/runtime" "^7.14.0"
@@ -6462,7 +6472,7 @@
     "boxen" "^4.2.0"
     "configstore" "^5.0.1"
     "fs-extra" "^8.1.0"
-    "gatsby-core-utils" "^2.8.0"
+    "gatsby-core-utils" "^2.9.0"
     "git-up" "^4.0.2"
     "is-docker" "^2.1.1"
     "lodash" "^4.17.21"
@@ -7039,8 +7049,8 @@
     "graphql-playground-html" "^1.6.29"
 
 "graphql-subscriptions@^1.1.0":
-  "integrity" "sha512-95yD/tKi24q8xYa7Q9rhQN16AYj5wPbrb8tmHGM3WRc9EBmWrG/0kkMl+tQG8wcEuE9ibR4zyOM31p5Sdr2v4g=="
-  "resolved" "https://registry.npmjs.org/graphql-subscriptions/-/graphql-subscriptions-1.2.1.tgz"
+  "integrity" "sha1-IUKy1ylmHd+We3OI988d1M8uBh0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/graphql-subscriptions/-/graphql-subscriptions-1.2.1.tgz"
   "version" "1.2.1"
   dependencies:
     "iterall" "^1.3.0"
@@ -7055,7 +7065,7 @@
   "resolved" "https://registry.npmjs.org/graphql-ws/-/graphql-ws-4.9.0.tgz"
   "version" "4.9.0"
 
-"graphql@^0.10.5 || ^0.11.3 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0", "graphql@^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0", "graphql@^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0", "graphql@^14.0.0 || ^15.0.0", "graphql@^14.2.0 || ^15.0.0", "graphql@^14.4.1", "graphql@^15.4.0", "graphql@>=0.10.0", "graphql@>=0.11 <=15", "graphql@>=0.8.0":
+"graphql@^0.10.5 || ^0.11.3 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0", "graphql@^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0", "graphql@^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0", "graphql@^14.0.0 || ^15.0.0", "graphql@^14.2.0 || ^15.0.0", "graphql@^14.4.1", "graphql@^14.7.0 || ^15.3.0", "graphql@^15.4.0", "graphql@>=0.10.0", "graphql@>=0.11 <=15", "graphql@>=0.8.0":
   "integrity" "sha512-FeTRX67T3LoE3LWAxxOlW2K3Bz+rMYAC18rRguK4wgXaTZMiJwSUwDmPFo3UadAKbzirKIg5Qy+sNJXbpPRnQw=="
   "resolved" "https://registry.npmjs.org/graphql/-/graphql-15.5.1.tgz"
   "version" "15.5.1"
@@ -7184,16 +7194,16 @@
   "version" "1.1.0"
 
 "hicat@^0.8.0":
-  "integrity" "sha512-om8L9O5XwqeSdwl5NtHgrzK3wcF4fT9T4gb/NktoH8EyoZipas/tvUZLV48xT7fQfMYr9qvb0WEutqdf0LWSqA=="
-  "resolved" "https://registry.npmjs.org/hicat/-/hicat-0.8.0.tgz"
+  "integrity" "sha1-IM1x9YqvG9hNUuVPGu6gyQ+nQlE="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/hicat/-/hicat-0.8.0.tgz"
   "version" "0.8.0"
   dependencies:
     "highlight.js" "^10.4.1"
     "minimist" "^1.2.5"
 
 "highlight.js@^10.4.1":
-  "integrity" "sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A=="
-  "resolved" "https://registry.npmjs.org/highlight.js/-/highlight.js-10.7.3.tgz"
+  "integrity" "sha1-aXJy45kTVuQMPKxWanTu9oF1ZTE="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/highlight.js/-/highlight.js-10.7.3.tgz"
   "version" "10.7.3"
 
 "hosted-git-info@^2.1.4":
@@ -7314,6 +7324,17 @@
     "depd" "~1.1.2"
     "inherits" "2.0.4"
     "setprototypeof" "1.1.1"
+    "statuses" ">= 1.5.0 < 2"
+    "toidentifier" "1.0.0"
+
+"http-errors@1.8.0":
+  "integrity" "sha1-ddG75JfhBE9R5O6ecEpi8o0zZQc="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/http-errors/-/http-errors-1.8.0.tgz"
+  "version" "1.8.0"
+  dependencies:
+    "depd" "~1.1.2"
+    "inherits" "2.0.4"
+    "setprototypeof" "1.2.0"
     "statuses" ">= 1.5.0 < 2"
     "toidentifier" "1.0.0"
 
@@ -7505,8 +7526,8 @@
   "version" "2.0.0"
 
 "inline-style-parser@0.1.1":
-  "integrity" "sha512-7NXolsK4CAS5+xvdj5OMMbI962hU/wvwoxk+LWR9Ek9bVtyuuYScDN6eS0rUm6TxApFpw7CX1o4uJzcd4AyD3Q=="
-  "resolved" "https://registry.npmjs.org/inline-style-parser/-/inline-style-parser-0.1.1.tgz"
+  "integrity" "sha1-7Io7QpJ06cCh8cT/qUU6f+9yzqE="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/inline-style-parser/-/inline-style-parser-0.1.1.tgz"
   "version" "0.1.1"
 
 "inquirer@^7.0.0":
@@ -7595,18 +7616,18 @@
     "kind-of" "^6.0.0"
 
 "is-alphabetical@^1.0.0":
-  "integrity" "sha512-DwzsA04LQ10FHTZuL0/grVDk4rFoVH1pjAToYwBrHSxcrBIGQuXrQMtD5U1b0U2XVgKZCTLLP8u2Qxqhy3l2Vg=="
-  "resolved" "https://registry.npmjs.org/is-alphabetical/-/is-alphabetical-1.0.4.tgz"
+  "integrity" "sha1-nn1rlJFr4iFTdF0YTCmMv5hqaG0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-alphabetical/-/is-alphabetical-1.0.4.tgz"
   "version" "1.0.4"
 
 "is-alphanumeric@^1.0.0":
   "integrity" "sha1-Spzvcdr0wAHB2B1j0UDPU/1oifQ="
-  "resolved" "https://registry.npmjs.org/is-alphanumeric/-/is-alphanumeric-1.0.0.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-alphanumeric/-/is-alphanumeric-1.0.0.tgz"
   "version" "1.0.0"
 
 "is-alphanumerical@^1.0.0":
-  "integrity" "sha512-UzoZUr+XfVz3t3v4KyGEniVL9BDRoQtY7tOyrRybkVNjDFWyo1yhXNGrrBTQxp3ib9BLAWs7k2YKBQsFRkZG9A=="
-  "resolved" "https://registry.npmjs.org/is-alphanumerical/-/is-alphanumerical-1.0.4.tgz"
+  "integrity" "sha1-frmiQx+FX2se8aeOMm31FWlsTb8="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-alphanumerical/-/is-alphanumerical-1.0.4.tgz"
   "version" "1.0.4"
   dependencies:
     "is-alphabetical" "^1.0.0"
@@ -7661,8 +7682,8 @@
   "version" "1.1.6"
 
 "is-buffer@^2.0.0":
-  "integrity" "sha512-i2R6zNFDwgEHJyQUtJEk0XFi1i0dPFn/oqjK3/vPCcDeJvW5NQ83V8QbicfF1SupOaB0h8ntgBC2YiE7dfyctQ=="
-  "resolved" "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.5.tgz"
+  "integrity" "sha1-68JS5ADSL/jXf6CYiIIaJKZYwZE="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-buffer/-/is-buffer-2.0.5.tgz"
   "version" "2.0.5"
 
 "is-builtin-module@^3.1.0":
@@ -7723,8 +7744,8 @@
   "version" "1.0.4"
 
 "is-decimal@^1.0.0":
-  "integrity" "sha512-RGdriMmQQvZ2aqaQq3awNA6dCGtKpiDFcOzrTWrDAT2MiWrKQVPmxLGHl7Y2nNu6led0kEyoX0enY0qXYsv9zw=="
-  "resolved" "https://registry.npmjs.org/is-decimal/-/is-decimal-1.0.4.tgz"
+  "integrity" "sha1-ZaOllYocW2OnBuGzM9fNn2MNP6U="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-decimal/-/is-decimal-1.0.4.tgz"
   "version" "1.0.4"
 
 "is-descriptor@^0.1.0":
@@ -7821,8 +7842,8 @@
     "is-extglob" "^2.1.1"
 
 "is-hexadecimal@^1.0.0":
-  "integrity" "sha512-gyPJuv83bHMpocVYoqof5VDiZveEoGoFL8m3BXNb2VW8Xs+rz9kqO8LOQ5DH6EsuvilT1ApazU0pyl+ytbPtlw=="
-  "resolved" "https://registry.npmjs.org/is-hexadecimal/-/is-hexadecimal-1.0.4.tgz"
+  "integrity" "sha1-zDXJdYjaS9Saju3WvECC1E3LI6c="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-hexadecimal/-/is-hexadecimal-1.0.4.tgz"
   "version" "1.0.4"
 
 "is-installed-globally@^0.4.0":
@@ -7922,8 +7943,8 @@
   "version" "1.1.0"
 
 "is-plain-obj@^2.0.0":
-  "integrity" "sha512-YWnfyRwxL/+SsrWYfOpUtz5b3YD+nyfkHvjbcanzk8zgyO4ASD67uVMRt8k5bM4lLMDnXfriRhOpemw+NfT1eA=="
-  "resolved" "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-2.1.0.tgz"
+  "integrity" "sha1-ReQuN/zPH0Dajl927iFRWEDAkoc="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-plain-obj/-/is-plain-obj-2.1.0.tgz"
   "version" "2.1.0"
 
 "is-plain-object@^2.0.3", "is-plain-object@^2.0.4":
@@ -8032,8 +8053,8 @@
     "unc-path-regex" "^0.1.2"
 
 "is-url@^1.2.4":
-  "integrity" "sha512-ITvGim8FhRiYe4IQ5uHSkj7pVaPDrCTkNd3yq3cV7iZAcJdHTUMPMEHcqSOy9xZ9qFenQCvi+2wjH9a1nXqHww=="
-  "resolved" "https://registry.npmjs.org/is-url/-/is-url-1.2.4.tgz"
+  "integrity" "sha1-BKTfRtKMTP89c9Af8Gq+sxihqlI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-url/-/is-url-1.2.4.tgz"
   "version" "1.2.4"
 
 "is-utf8@^0.2.0":
@@ -8049,8 +8070,8 @@
     "is-invalid-path" "^0.1.0"
 
 "is-whitespace-character@^1.0.0":
-  "integrity" "sha512-SDweEzfIZM0SJV0EUga669UTKlmL0Pq8Lno0QDQsPnvECB3IM2aP0gdx5TrU0A01MAPfViaZiI2V1QMZLaKK5w=="
-  "resolved" "https://registry.npmjs.org/is-whitespace-character/-/is-whitespace-character-1.0.4.tgz"
+  "integrity" "sha1-CFjt2UqVWUx8ndC1wXTsbkXuSqc="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-whitespace-character/-/is-whitespace-character-1.0.4.tgz"
   "version" "1.0.4"
 
 "is-windows@^1.0.2":
@@ -8059,8 +8080,8 @@
   "version" "1.0.2"
 
 "is-word-character@^1.0.0":
-  "integrity" "sha512-5SMO8RVennx3nZrqtKwCGyyetPE9VDba5ugvKLaD4KopPG5kR4mQ7tNt/r7feL5yt5h3lpuBbIUmCOG2eSzXHA=="
-  "resolved" "https://registry.npmjs.org/is-word-character/-/is-word-character-1.0.4.tgz"
+  "integrity" "sha1-zg5zIW+YWZBgWS9i/zE1TdvrAjA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/is-word-character/-/is-word-character-1.0.4.tgz"
   "version" "1.0.4"
 
 "is-wsl@^1.1.0":
@@ -8131,8 +8152,8 @@
   "version" "1.3.0"
 
 "jest-diff@^25.5.0":
-  "integrity" "sha512-z1kygetuPiREYdNIumRpAHY6RXiGmp70YHptjdaxTWGmA085W3iCnXNx0DhflK3vwrKmrRWyY1wUpkPMVxMK7A=="
-  "resolved" "https://registry.npmjs.org/jest-diff/-/jest-diff-25.5.0.tgz"
+  "integrity" "sha1-HdJu1k+WZnwGjO8Ca2d9+gGvz6k="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/jest-diff/-/jest-diff-25.5.0.tgz"
   "version" "25.5.0"
   dependencies:
     "chalk" "^3.0.0"
@@ -8141,8 +8162,8 @@
     "pretty-format" "^25.5.0"
 
 "jest-get-type@^25.2.6":
-  "integrity" "sha512-DxjtyzOHjObRM+sM1knti6or+eOgcGU4xVSb2HNP1TqO4ahsT+rqZg+nyqHWJSvWgKC5cG3QjGFBqxLghiF/Ig=="
-  "resolved" "https://registry.npmjs.org/jest-get-type/-/jest-get-type-25.2.6.tgz"
+  "integrity" "sha1-Cwoy+riQi0TVCL6BaBSH26u42Hc="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/jest-get-type/-/jest-get-type-25.2.6.tgz"
   "version" "25.2.6"
 
 "jest-worker@^24.9.0":
@@ -8511,7 +8532,7 @@
 
 "lock@^1.0.0":
   "integrity" "sha1-UxV0mdFlOxNspmRRBx/KYVcD+lU="
-  "resolved" "https://registry.npmjs.org/lock/-/lock-1.1.0.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/lock/-/lock-1.1.0.tgz"
   "version" "1.1.0"
 
 "lodash-es@^4.17.11":
@@ -8566,7 +8587,7 @@
 
 "lodash.isplainobject@^4.0.6":
   "integrity" "sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs="
-  "resolved" "https://registry.npmjs.org/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz"
   "version" "4.0.6"
 
 "lodash.kebabcase@^4.1.1":
@@ -8643,8 +8664,8 @@
   "version" "1.7.1"
 
 "longest-streak@^2.0.0", "longest-streak@^2.0.1":
-  "integrity" "sha512-vM6rUVCVUJJt33bnmHiZEvr7wPT78ztX7rojL+LW51bHtLh6HTjx84LA5W4+oa6aKEJA7jJu5LR6vQRBpA5DVg=="
-  "resolved" "https://registry.npmjs.org/longest-streak/-/longest-streak-2.0.4.tgz"
+  "integrity" "sha1-uFmZV9pbXatk3uP+MW+ndFl9kOQ="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/longest-streak/-/longest-streak-2.0.4.tgz"
   "version" "2.0.4"
 
 "longest@^1.0.0":
@@ -8780,13 +8801,13 @@
     "object-visit" "^1.0.0"
 
 "markdown-escapes@^1.0.0":
-  "integrity" "sha512-8z4efJYk43E0upd0NbVXwgSTQs6cT3T06etieCMEg7dRbzCbxUCK/GHlX8mhHRDcp+OLlHkPKsvqQTCvsRl2cg=="
-  "resolved" "https://registry.npmjs.org/markdown-escapes/-/markdown-escapes-1.0.4.tgz"
+  "integrity" "sha1-yVQV70UUmddgK5EJXzyOiXX3hTU="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/markdown-escapes/-/markdown-escapes-1.0.4.tgz"
   "version" "1.0.4"
 
 "markdown-table@^2.0.0":
-  "integrity" "sha512-Ezda85ToJUBhM6WGaG6veasyym+Tbs3cMAw/ZhOPqXiYsr0jgocBV3j3nx+4lk47plLlIqjwuTm/ywVI+zjJ/A=="
-  "resolved" "https://registry.npmjs.org/markdown-table/-/markdown-table-2.0.0.tgz"
+  "integrity" "sha1-GUqQztJtMf51PYuUNEMCFMARhls="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/markdown-table/-/markdown-table-2.0.0.tgz"
   "version" "2.0.0"
   dependencies:
     "repeat-string" "^1.0.0"
@@ -8797,22 +8818,22 @@
   "version" "5.0.0"
 
 "mdast-util-compact@^2.0.0":
-  "integrity" "sha512-7GlnT24gEwDrdAwEHrU4Vv5lLWrEer4KOkAiKT9nYstsTad7Oc1TwqT2zIMKRdZF7cTuaf+GA1E4Kv7jJh8mPA=="
-  "resolved" "https://registry.npmjs.org/mdast-util-compact/-/mdast-util-compact-2.0.1.tgz"
+  "integrity" "sha1-yrxpovQxA2KDJvNbGs9zXVXJlJA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-compact/-/mdast-util-compact-2.0.1.tgz"
   "version" "2.0.1"
   dependencies:
     "unist-util-visit" "^2.0.0"
 
 "mdast-util-mdx-expression@~0.1.0":
-  "integrity" "sha512-SoO8y1B9NjMOYlNdwXMchuTVvqSTlUmXm1P5QvZNPv7OH7aa8qJV+3aA+vl1DHK9Vk1uZAlgwokjvDQhS6bINA=="
-  "resolved" "https://registry.npmjs.org/mdast-util-mdx-expression/-/mdast-util-mdx-expression-0.1.1.tgz"
+  "integrity" "sha1-+hoEpepnd7Do22wSCt8DCIWV35U="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-mdx-expression/-/mdast-util-mdx-expression-0.1.1.tgz"
   "version" "0.1.1"
   dependencies:
     "strip-indent" "^3.0.0"
 
 "mdast-util-mdx-jsx@~0.1.0":
-  "integrity" "sha512-67KOAvCmypBSpr+AJEAVQg1Obig5Wnguo4ETTxASe5WVP4TLt57bZjDX/9EW5sWYQsO4gPqLxkUOlypVn5rkhg=="
-  "resolved" "https://registry.npmjs.org/mdast-util-mdx-jsx/-/mdast-util-mdx-jsx-0.1.4.tgz"
+  "integrity" "sha1-hoNxuQsXM3tPByoHAh984ZYSzzQ="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-mdx-jsx/-/mdast-util-mdx-jsx-0.1.4.tgz"
   "version" "0.1.4"
   dependencies:
     "mdast-util-to-markdown" "^0.6.0"
@@ -8823,8 +8844,8 @@
     "vfile-message" "^2.0.0"
 
 "mdast-util-mdx@^0.1.1":
-  "integrity" "sha512-9nncdnHNYSb4HNxY3AwE6gU632jhbXsDGXe9PkkJoEawYWJ8tTwmEOHGlGa2TCRidtkd6FF5I8ogDU9pTDlQyA=="
-  "resolved" "https://registry.npmjs.org/mdast-util-mdx/-/mdast-util-mdx-0.1.1.tgz"
+  "integrity" "sha1-Fqy8bKvjP0zr62P6nPi+XaHVb78="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-mdx/-/mdast-util-mdx-0.1.1.tgz"
   "version" "0.1.1"
   dependencies:
     "mdast-util-mdx-expression" "~0.1.0"
@@ -8833,13 +8854,13 @@
     "mdast-util-to-markdown" "^0.6.1"
 
 "mdast-util-mdxjs-esm@~0.1.0":
-  "integrity" "sha512-kBiYeashz+nuhfv+712nc4THQhzXIH2gBFUDbuLxuDCqU/fZeg+9FAcdRBx9E13dkpk1p2Xwufzs3wsGJ+mISQ=="
-  "resolved" "https://registry.npmjs.org/mdast-util-mdxjs-esm/-/mdast-util-mdxjs-esm-0.1.1.tgz"
+  "integrity" "sha1-aRNKDa1xpZqeDpz9wGM93jHf9po="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-mdxjs-esm/-/mdast-util-mdxjs-esm-0.1.1.tgz"
   "version" "0.1.1"
 
 "mdast-util-to-markdown@^0.6.0", "mdast-util-to-markdown@^0.6.1":
-  "integrity" "sha512-XeV9sDE7ZlOQvs45C9UKMtfTcctcaj/pGwH8YLbMHoMOXNNCn2LsqVQOqrF1+/NU8lKDAqozme9SCXWyo9oAcQ=="
-  "resolved" "https://registry.npmjs.org/mdast-util-to-markdown/-/mdast-util-to-markdown-0.6.5.tgz"
+  "integrity" "sha1-sz9nyoINaebMUnqT1AOSSbUEvr4="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-to-markdown/-/mdast-util-to-markdown-0.6.5.tgz"
   "version" "0.6.5"
   dependencies:
     "@types/unist" "^2.0.0"
@@ -8850,8 +8871,8 @@
     "zwitch" "^1.0.0"
 
 "mdast-util-to-string@^2.0.0":
-  "integrity" "sha512-AW4DRS3QbBayY/jJmD8437V1Gombjf8RSOUCMFBuo5iHi58AGEgVCKQ+ezHkZZDpAQS75hcBMpLqjpJTjtUL7w=="
-  "resolved" "https://registry.npmjs.org/mdast-util-to-string/-/mdast-util-to-string-2.0.0.tgz"
+  "integrity" "sha1-uM/mpxPhCRy1tyj8SIhaR2f4uXs="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/mdast-util-to-string/-/mdast-util-to-string-2.0.0.tgz"
   "version" "2.0.0"
 
 "mdn-data@2.0.14":
@@ -8958,16 +8979,16 @@
   "version" "0.1.1"
 
 "micromark-extension-mdx-expression@^0.3.0", "micromark-extension-mdx-expression@^0.3.2", "micromark-extension-mdx-expression@~0.3.0":
-  "integrity" "sha512-Sh8YHLSAlbm/7TZkVKEC4wDcJE8XhVpZ9hUXBue1TcAicrrzs/oXu7PHH3NcyMemjGyMkiVS34Y0AHC5KG3y4A=="
-  "resolved" "https://registry.npmjs.org/micromark-extension-mdx-expression/-/micromark-extension-mdx-expression-0.3.2.tgz"
+  "integrity" "sha1-gnWSr1ARYRDcnuJyAac8A35hqic="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark-extension-mdx-expression/-/micromark-extension-mdx-expression-0.3.2.tgz"
   "version" "0.3.2"
   dependencies:
     "micromark" "~2.11.0"
     "vfile-message" "^2.0.0"
 
 "micromark-extension-mdx-jsx@~0.3.0":
-  "integrity" "sha512-kG3VwaJlzAPdtIVDznfDfBfNGMTIzsHqKpTmMlew/iPnUCDRNkX+48ElpaOzXAtK5axtpFKE3Hu3VBriZDnRTQ=="
-  "resolved" "https://registry.npmjs.org/micromark-extension-mdx-jsx/-/micromark-extension-mdx-jsx-0.3.3.tgz"
+  "integrity" "sha1-aOjnAPKGDjLpb/SORK+3Rl1GLiE="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark-extension-mdx-jsx/-/micromark-extension-mdx-jsx-0.3.3.tgz"
   "version" "0.3.3"
   dependencies:
     "estree-util-is-identifier-name" "^1.0.0"
@@ -8976,13 +8997,13 @@
     "vfile-message" "^2.0.0"
 
 "micromark-extension-mdx-md@~0.1.0":
-  "integrity" "sha512-emlFQEyfx/2aPhwyEqeNDfKE6jPH1cvLTb5ANRo4qZBjaUObnzjLRdzK8RJ4Xc8+/dOmKN8TTRxFnOYF5/EAwQ=="
-  "resolved" "https://registry.npmjs.org/micromark-extension-mdx-md/-/micromark-extension-mdx-md-0.1.1.tgz"
+  "integrity" "sha1-J3tOgq2je/3yIvbDUw4gVj1z4GQ="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark-extension-mdx-md/-/micromark-extension-mdx-md-0.1.1.tgz"
   "version" "0.1.1"
 
 "micromark-extension-mdx@^0.2.0":
-  "integrity" "sha512-J+nZegf1ExPz1Ft6shxu8M9WfRom1gwRIx6gpJK1SEEqKzY5LjOR1d/WHRtjwV4KoMXrL53+PoN7T1Rw1euJew=="
-  "resolved" "https://registry.npmjs.org/micromark-extension-mdx/-/micromark-extension-mdx-0.2.1.tgz"
+  "integrity" "sha1-B0uFATkJSB0j84Lxfc7XtM0XPAo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark-extension-mdx/-/micromark-extension-mdx-0.2.1.tgz"
   "version" "0.2.1"
   dependencies:
     "micromark" "~2.11.0"
@@ -8991,8 +9012,8 @@
     "micromark-extension-mdx-md" "~0.1.0"
 
 "micromark-extension-mdxjs-esm@~0.3.0":
-  "integrity" "sha512-tuLgcELrgY1a5tPxjk+MrI3BdYtwW67UaHZdzKiDYD8loNbxwIscfdagI6A2BKuAkrfeyHF6FW3B8KuDK3ZMXw=="
-  "resolved" "https://registry.npmjs.org/micromark-extension-mdxjs-esm/-/micromark-extension-mdxjs-esm-0.3.1.tgz"
+  "integrity" "sha1-QKcQ/hRbOB45opMNsoE/PvqgFKw="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark-extension-mdxjs-esm/-/micromark-extension-mdxjs-esm-0.3.1.tgz"
   "version" "0.3.1"
   dependencies:
     "micromark" "~2.11.0"
@@ -9000,8 +9021,8 @@
     "vfile-message" "^2.0.0"
 
 "micromark-extension-mdxjs@^0.3.0":
-  "integrity" "sha512-NQuiYA0lw+eFDtSG4+c7ao3RG9dM4P0Kx/sn8OLyPhxtIc6k+9n14k5VfLxRKfAxYRTo8c5PLZPaRNmslGWxJw=="
-  "resolved" "https://registry.npmjs.org/micromark-extension-mdxjs/-/micromark-extension-mdxjs-0.3.0.tgz"
+  "integrity" "sha1-NezrrxS4N3tgRrZZeA/TERGW7M0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark-extension-mdxjs/-/micromark-extension-mdxjs-0.3.0.tgz"
   "version" "0.3.0"
   dependencies:
     "acorn" "^8.0.0"
@@ -9013,8 +9034,8 @@
     "micromark-extension-mdxjs-esm" "~0.3.0"
 
 "micromark@~2.11.0":
-  "integrity" "sha512-+WoovN/ppKolQOFIAajxi7Lu9kInbPxFuTBVEavFcL8eAfVstoc5MocPmqBeAdBOJV00uaVjegzH4+MA0DN/uA=="
-  "resolved" "https://registry.npmjs.org/micromark/-/micromark-2.11.4.tgz"
+  "integrity" "sha1-0TQ2E47qgmOD6CJEnJpcUO5EZlo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/micromark/-/micromark-2.11.4.tgz"
   "version" "2.11.4"
   dependencies:
     "debug" "^4.0.0"
@@ -9114,8 +9135,8 @@
     "dom-walk" "^0.1.0"
 
 "min-indent@^1.0.0":
-  "integrity" "sha512-I9jwMn07Sy/IwOj3zVkVik2JTvgpaykDZEigL6Rx6N9LbMywwUSMtxET+7lVoDLLd3O3IXwJwvuuns8UB/HeAg=="
-  "resolved" "https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz"
+  "integrity" "sha1-pj9oFnOzBXH76LwlaGrnRu76mGk="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/min-indent/-/min-indent-1.0.1.tgz"
   "version" "1.0.1"
 
 "mini-css-extract-plugin@1.6.0":
@@ -9928,8 +9949,8 @@
     "xml2js" "^0.4.5"
 
 "parse-entities@^1.1.0":
-  "integrity" "sha512-NzfpbxW/NPrzZ/yYSoQxyqUZMZXIdCfE0OIN4ESsnptHJECoUk3FZktxNuzQf4tjt5UEopnxpYJbvYuxIFDdsg=="
-  "resolved" "https://registry.npmjs.org/parse-entities/-/parse-entities-1.2.2.tgz"
+  "integrity" "sha1-wxvw9lO2ZhNU+Jc1WcuG3R1e31A="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/parse-entities/-/parse-entities-1.2.2.tgz"
   "version" "1.2.2"
   dependencies:
     "character-entities" "^1.0.0"
@@ -9940,8 +9961,8 @@
     "is-hexadecimal" "^1.0.0"
 
 "parse-entities@^2.0.0":
-  "integrity" "sha512-kkywGpCcRYhqQIchaWqZ875wzpS/bMKhz5HnN3p7wveJTkTtyAB/AlnS0f8DFSqYW1T82t6yEAkEcB+A1I3MbQ=="
-  "resolved" "https://registry.npmjs.org/parse-entities/-/parse-entities-2.0.0.tgz"
+  "integrity" "sha1-U8brW5MUofTsmfoP33zgHs2gy+g="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/parse-entities/-/parse-entities-2.0.0.tgz"
   "version" "2.0.0"
   dependencies:
     "character-entities" "^1.0.0"
@@ -10605,9 +10626,9 @@
   "version" "2.0.0"
 
 "prettier@^2.0.5":
-  "integrity" "sha512-p+vNbgpLjif/+D+DwAZAbndtRrR0md0MwfmOVN9N+2RgyACMT+7tfaRnT+WDPkqnuVwleyuBIG2XBxKDme3hPA=="
-  "resolved" "https://registry.npmjs.org/prettier/-/prettier-2.3.1.tgz"
-  "version" "2.3.1"
+  "integrity" "sha1-7ygKBewlNxLkhiM9tcbyNEHnNC0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/prettier/-/prettier-2.3.2.tgz"
+  "version" "2.3.2"
 
 "pretty-bytes@^5.1.0", "pretty-bytes@^5.4.1":
   "integrity" "sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg=="
@@ -10623,8 +10644,8 @@
     "renderkid" "^2.0.4"
 
 "pretty-format@^25.5.0":
-  "integrity" "sha512-kbo/kq2LQ/A/is0PQwsEHM7Ca6//bGPPvU6UnsdDRSKTWxT/ru/xb88v4BJf6a69H+uTytOEsTusT9ksd/1iWQ=="
-  "resolved" "https://registry.npmjs.org/pretty-format/-/pretty-format-25.5.0.tgz"
+  "integrity" "sha1-eHPB13T2gsNLjUi2dDor8qxVeRo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/pretty-format/-/pretty-format-25.5.0.tgz"
   "version" "25.5.0"
   dependencies:
     "@jest/types" "^25.5.0"
@@ -11220,8 +11241,8 @@
     "jsesc" "~0.5.0"
 
 "remark-mdx@^2.0.0-next.4":
-  "integrity" "sha512-I5dCKP5VE18SMd5ycIeeEk8Hl6oaldUY6PIvjrfm65l7d0QRnLqknb62O2g3QEmOxCswcHTtwITtz6rfUIVs+A=="
-  "resolved" "https://registry.npmjs.org/remark-mdx/-/remark-mdx-2.0.0-next.9.tgz"
+  "integrity" "sha1-PiCIVQ3dQmTOSLyhX7KXVp02nmU="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/remark-mdx/-/remark-mdx-2.0.0-next.9.tgz"
   "version" "2.0.0-next.9"
   dependencies:
     "mdast-util-mdx" "^0.1.1"
@@ -11229,8 +11250,8 @@
     "micromark-extension-mdxjs" "^0.3.0"
 
 "remark-mdxjs@^2.0.0-next.4":
-  "integrity" "sha512-Z/+0eWc7pBEABwg3a5ptL+vCTWHYMFnYzpLoJxTm2muBSk8XyB/CL+tEJ6SV3Q/fScHX2dtG4JRcGSpbZFLazQ=="
-  "resolved" "https://registry.npmjs.org/remark-mdxjs/-/remark-mdxjs-2.0.0-next.8.tgz"
+  "integrity" "sha1-/2A+v8sX8ZUD7j+reER0Reqgh4M="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/remark-mdxjs/-/remark-mdxjs-2.0.0-next.8.tgz"
   "version" "2.0.0-next.8"
   dependencies:
     "@babel/core" "7.10.5"
@@ -11240,8 +11261,8 @@
     "@mdx-js/util" "^2.0.0-next.8"
 
 "remark-parse@^6.0.3":
-  "integrity" "sha512-QbDXWN4HfKTUC0hHa4teU463KclLAnwpn/FBn87j9cKYJWWawbiLgMfP2Q4XwhxxuuuOxHlw+pSN0OKuJwyVvg=="
-  "resolved" "https://registry.npmjs.org/remark-parse/-/remark-parse-6.0.3.tgz"
+  "integrity" "sha1-yZExBSgJ2kghCEE/h7Duf1IYCjo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/remark-parse/-/remark-parse-6.0.3.tgz"
   "version" "6.0.3"
   dependencies:
     "collapse-white-space" "^1.0.2"
@@ -11261,8 +11282,8 @@
     "xtend" "^4.0.1"
 
 "remark-stringify@^8.1.0":
-  "integrity" "sha512-q4EyPZT3PcA3Eq7vPpT6bIdokXzFGp9i85igjmhRyXWmPs0Y6/d2FYwUNotKAWyLch7g0ASZJn/KHHcHZQ163A=="
-  "resolved" "https://registry.npmjs.org/remark-stringify/-/remark-stringify-8.1.1.tgz"
+  "integrity" "sha1-4qncenv0TkahVex4mW24lngNjOU="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/remark-stringify/-/remark-stringify-8.1.1.tgz"
   "version" "8.1.1"
   dependencies:
     "ccount" "^1.0.0"
@@ -11857,7 +11878,7 @@
 
 "single-trailing-newline@^1.0.0":
   "integrity" "sha1-gfCtKtZFGBlFyAlSpcFBSZLulmQ="
-  "resolved" "https://registry.npmjs.org/single-trailing-newline/-/single-trailing-newline-1.0.0.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/single-trailing-newline/-/single-trailing-newline-1.0.0.tgz"
   "version" "1.0.0"
   dependencies:
     "detect-newline" "^1.0.3"
@@ -12053,7 +12074,7 @@
 
 "source-map@^0.5.0":
   "integrity" "sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w="
-  "resolved" "https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/source-map/-/source-map-0.5.7.tgz"
   "version" "0.5.7"
 
 "source-map@^0.5.6":
@@ -12185,8 +12206,8 @@
   "version" "1.2.0"
 
 "state-toggle@^1.0.0":
-  "integrity" "sha512-d/5Z4/2iiCnHw6Xzghyhb+GcmF89bxwgXG60wjIiZaxnymbyOmI8Hk4VqHXiVVp6u2ysaskFfXg3ekCj4WNftQ=="
-  "resolved" "https://registry.npmjs.org/state-toggle/-/state-toggle-1.0.3.tgz"
+  "integrity" "sha1-4SOxaojhQxObCcaFIiG8mBWRff4="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/state-toggle/-/state-toggle-1.0.3.tgz"
   "version" "1.0.3"
 
 "static-extend@^0.1.1":
@@ -12330,8 +12351,8 @@
     "define-properties" "^1.1.3"
 
 "stringify-entities@^3.0.0", "stringify-entities@^3.1.0":
-  "integrity" "sha512-3FP+jGMmMV/ffZs86MoghGqAoqXAdxLrJP4GUdrDN1aIScYih5tuIO3eF4To5AJZ79KDZ8Fpdy7QJnK8SsL1Vg=="
-  "resolved" "https://registry.npmjs.org/stringify-entities/-/stringify-entities-3.1.0.tgz"
+  "integrity" "sha1-uNP+rCVtn/zJ+h/v3PPKcFdu6QM="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/stringify-entities/-/stringify-entities-3.1.0.tgz"
   "version" "3.1.0"
   dependencies:
     "character-entities-html4" "^1.0.0"
@@ -12427,8 +12448,8 @@
     "get-stdin" "^4.0.1"
 
 "strip-indent@^3.0.0":
-  "integrity" "sha512-laJTa3Jb+VQpaC6DseHhF7dXVqHTfJPCRDaEbid/drOhgitgYku/letMUqOXFoWV0zIIUbjpdH2t+tYj4bQMRQ=="
-  "resolved" "https://registry.npmjs.org/strip-indent/-/strip-indent-3.0.0.tgz"
+  "integrity" "sha1-wy4c7pQLazQyx3G8LFS8znPNMAE="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/strip-indent/-/strip-indent-3.0.0.tgz"
   "version" "3.0.0"
   dependencies:
     "min-indent" "^1.0.0"
@@ -12468,8 +12489,8 @@
     "schema-utils" "^3.0.0"
 
 "style-to-object@^0.3.0":
-  "integrity" "sha512-CzFnRRXhzWIdItT3OmF8SQfWyahHhjq3HwcMNCNLn+N7klOOqPjMeG/4JSu77D7ypZdGvSzvkrbyeTMizz2VrA=="
-  "resolved" "https://registry.npmjs.org/style-to-object/-/style-to-object-0.3.0.tgz"
+  "integrity" "sha1-sbeQ0gWZHMeDgBlnIUl57hmnbkY="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/style-to-object/-/style-to-object-0.3.0.tgz"
   "version" "0.3.0"
   dependencies:
     "inline-style-parser" "0.1.1"
@@ -12824,18 +12845,18 @@
     "escape-string-regexp" "^1.0.2"
 
 "trim-trailing-lines@^1.0.0":
-  "integrity" "sha512-rjUWSqnfTNrjbB9NQWfPMH/xRK1deHeGsHoVfpxJ++XeYXE0d6B1En37AHfw3jtfTU7dzMzZL2jjpe8Qb5gLIQ=="
-  "resolved" "https://registry.npmjs.org/trim-trailing-lines/-/trim-trailing-lines-1.1.4.tgz"
+  "integrity" "sha1-vUq77HzIgEYvELLItc4djR7HwsA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/trim-trailing-lines/-/trim-trailing-lines-1.1.4.tgz"
   "version" "1.1.4"
 
 "trim@0.0.1":
   "integrity" "sha1-WFhUf2spB1fulczMZm+1AITEYN0="
-  "resolved" "https://registry.npmjs.org/trim/-/trim-0.0.1.tgz"
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/trim/-/trim-0.0.1.tgz"
   "version" "0.0.1"
 
 "trough@^1.0.0":
-  "integrity" "sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA=="
-  "resolved" "https://registry.npmjs.org/trough/-/trough-1.0.5.tgz"
+  "integrity" "sha1-uLY5zvrX0LsqvTfUM/+Ck++l9AY="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/trough/-/trough-1.0.5.tgz"
   "version" "1.0.5"
 
 "true-case-path@^2.2.1":
@@ -13032,8 +13053,8 @@
   "version" "0.1.2"
 
 "unherit@^1.0.4":
-  "integrity" "sha512-Ft16BJcnapDKp0+J/rqFC3Rrk6Y/Ng4nzsC028k2jdDII/rdZ7Wd3pPT/6+vIIxRagwRc9K0IUX0Ra4fKvw+WQ=="
-  "resolved" "https://registry.npmjs.org/unherit/-/unherit-1.1.3.tgz"
+  "integrity" "sha1-bJtQPytBsmIzDIDpHIYUq9qmnCI="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unherit/-/unherit-1.1.3.tgz"
   "version" "1.1.3"
   dependencies:
     "inherits" "^2.0.0"
@@ -13063,8 +13084,8 @@
   "version" "1.1.0"
 
 "unified@^8.4.2":
-  "integrity" "sha512-JCrmN13jI4+h9UAyKEoGcDZV+i1E7BLFuG7OsaDvTXI5P0qhHX+vZO/kOhz9jn8HGENDKbwSeB0nVOg4gVStGA=="
-  "resolved" "https://registry.npmjs.org/unified/-/unified-8.4.2.tgz"
+  "integrity" "sha1-E61YtKQ3+qJ1GkpMahb2gMUA//E="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unified/-/unified-8.4.2.tgz"
   "version" "8.4.2"
   dependencies:
     "bail" "^1.0.0"
@@ -13096,68 +13117,68 @@
     "crypto-random-string" "^2.0.0"
 
 "unist-util-is@^3.0.0":
-  "integrity" "sha512-sVZZX3+kspVNmLWBPAB6r+7D9ZgAFPNWm66f7YNb420RlQSbn+n8rG8dGZSkrER7ZIXGQYNm5pqC3v3HopH24A=="
-  "resolved" "https://registry.npmjs.org/unist-util-is/-/unist-util-is-3.0.0.tgz"
+  "integrity" "sha1-2ehDgcJGjoJinkpb6dfQWi3TJM0="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-is/-/unist-util-is-3.0.0.tgz"
   "version" "3.0.0"
 
 "unist-util-is@^4.0.0":
-  "integrity" "sha512-ZOQSsnce92GrxSqlnEEseX0gi7GH9zTJZ0p9dtu87WRb/37mMPO2Ilx1s/t9vBHrFhbgweUwb+t7cIn5dxPhZg=="
-  "resolved" "https://registry.npmjs.org/unist-util-is/-/unist-util-is-4.1.0.tgz"
+  "integrity" "sha1-l25fRip6Xec9lLcGusG5BnG1d5c="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-is/-/unist-util-is-4.1.0.tgz"
   "version" "4.1.0"
 
 "unist-util-remove-position@^1.0.0":
-  "integrity" "sha512-tLqd653ArxJIPnKII6LMZwH+mb5q+n/GtXQZo6S6csPRs5zB0u79Yw8ouR3wTw8wxvdJFhpP6Y7jorWdCgLO0A=="
-  "resolved" "https://registry.npmjs.org/unist-util-remove-position/-/unist-util-remove-position-1.1.4.tgz"
+  "integrity" "sha1-7ANzSLYQLIl3A+7m0ClMpHVaICA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-remove-position/-/unist-util-remove-position-1.1.4.tgz"
   "version" "1.1.4"
   dependencies:
     "unist-util-visit" "^1.1.0"
 
 "unist-util-remove-position@^3.0.0":
-  "integrity" "sha512-17kIOuolVuK16LMb9KyMJlqdfCtlfQY5FjY3Sdo9iC7F5wqdXhNjMq0PBvMpkVNNnAmHxXssUW+rZ9T2zbP0Rg=="
-  "resolved" "https://registry.npmjs.org/unist-util-remove-position/-/unist-util-remove-position-3.0.0.tgz"
+  "integrity" "sha1-TNGegsjmZfRitqz8/QqDUyNaiOk="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-remove-position/-/unist-util-remove-position-3.0.0.tgz"
   "version" "3.0.0"
   dependencies:
     "unist-util-visit" "^2.0.0"
 
 "unist-util-remove@^2.0.0":
-  "integrity" "sha512-J8NYPyBm4baYLdCbjmf1bhPu45Cr1MWTm77qd9istEkzWpnN6O9tMsEbB2JhNnBCqGENRqEWomQ+He6au0B27Q=="
-  "resolved" "https://registry.npmjs.org/unist-util-remove/-/unist-util-remove-2.1.0.tgz"
+  "integrity" "sha1-sLRziqfuRFxAL9qTKNYEoC0BBYg="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-remove/-/unist-util-remove-2.1.0.tgz"
   "version" "2.1.0"
   dependencies:
     "unist-util-is" "^4.0.0"
 
 "unist-util-stringify-position@^2.0.0":
-  "integrity" "sha512-3faScn5I+hy9VleOq/qNbAd6pAx7iH5jYBMS9I1HgQVijz/4mv5Bvw5iw1sC/90CODiKo81G/ps8AJrISn687g=="
-  "resolved" "https://registry.npmjs.org/unist-util-stringify-position/-/unist-util-stringify-position-2.0.3.tgz"
+  "integrity" "sha1-zOO/oc34W6c3XR1bF73Eytqb2do="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-stringify-position/-/unist-util-stringify-position-2.0.3.tgz"
   "version" "2.0.3"
   dependencies:
     "@types/unist" "^2.0.2"
 
 "unist-util-visit-parents@^2.0.0":
-  "integrity" "sha512-DyN5vD4NE3aSeB+PXYNKxzGsfocxp6asDc2XXE3b0ekO2BaRUpBicbbUygfSvYfUz1IkmjFR1YF7dPklraMZ2g=="
-  "resolved" "https://registry.npmjs.org/unist-util-visit-parents/-/unist-util-visit-parents-2.1.2.tgz"
+  "integrity" "sha1-JeQ+VTEhZvM0jK5nQ1iHgdESwek="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-visit-parents/-/unist-util-visit-parents-2.1.2.tgz"
   "version" "2.1.2"
   dependencies:
     "unist-util-is" "^3.0.0"
 
 "unist-util-visit-parents@^3.0.0":
-  "integrity" "sha512-1KROIZWo6bcMrZEwiH2UrXDyalAa0uqzWCxCJj6lPOvTve2WkfgCytoDTPaMnodXh1WrXOq0haVYHj99ynJlsg=="
-  "resolved" "https://registry.npmjs.org/unist-util-visit-parents/-/unist-util-visit-parents-3.1.1.tgz"
+  "integrity" "sha1-ZabOaY94prD1aqDojxOAGIbNrvY="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-visit-parents/-/unist-util-visit-parents-3.1.1.tgz"
   "version" "3.1.1"
   dependencies:
     "@types/unist" "^2.0.0"
     "unist-util-is" "^4.0.0"
 
 "unist-util-visit@^1.1.0":
-  "integrity" "sha512-AvGNk7Bb//EmJZyhtRUnNMEpId/AZ5Ph/KUpTI09WHQuDZHKovQ1oEv3mfmKpWKtoMzyMC4GLBm1Zy5k12fjIw=="
-  "resolved" "https://registry.npmjs.org/unist-util-visit/-/unist-util-visit-1.4.1.tgz"
+  "integrity" "sha1-RySqqEhububibX/zyGhZYNVgseM="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-visit/-/unist-util-visit-1.4.1.tgz"
   "version" "1.4.1"
   dependencies:
     "unist-util-visit-parents" "^2.0.0"
 
 "unist-util-visit@^2.0.0", "unist-util-visit@^2.0.2":
-  "integrity" "sha512-iJ4/RczbJMkD0712mGktuGpm/U4By4FfDonL7N/9tATGIF4imikjOuagyMY53tnZq3NP6BcmlrHhEKAfGWjh7Q=="
-  "resolved" "https://registry.npmjs.org/unist-util-visit/-/unist-util-visit-2.0.3.tgz"
+  "integrity" "sha1-w3A4kxRt9HIDu4qXla9H17lxIIw="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/unist-util-visit/-/unist-util-visit-2.0.3.tgz"
   "version" "2.0.3"
   dependencies:
     "@types/unist" "^2.0.0"
@@ -13372,21 +13393,21 @@
   "version" "1.0.4"
 
 "vfile-location@^2.0.0":
-  "integrity" "sha512-sSFdyCP3G6Ka0CEmN83A2YCMKIieHx0EDaj5IDP4g1pa5ZJ4FJDvpO0WODLxo4LUX4oe52gmSCK7Jw4SBghqxA=="
-  "resolved" "https://registry.npmjs.org/vfile-location/-/vfile-location-2.0.6.tgz"
+  "integrity" "sha1-iidPOUEbhxnqVyiALhDZ4N/xUZ4="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/vfile-location/-/vfile-location-2.0.6.tgz"
   "version" "2.0.6"
 
 "vfile-message@^2.0.0":
-  "integrity" "sha512-DjssxRGkMvifUOJre00juHoP9DPWuzjxKuMDrhNbk2TdaYYBNMStsNhEOt3idrtI12VQYM/1+iM0KOzXi4pxwQ=="
-  "resolved" "https://registry.npmjs.org/vfile-message/-/vfile-message-2.0.4.tgz"
+  "integrity" "sha1-W0O4gXHUCerlhHfRPyPdQdUsNxo="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/vfile-message/-/vfile-message-2.0.4.tgz"
   "version" "2.0.4"
   dependencies:
     "@types/unist" "^2.0.0"
     "unist-util-stringify-position" "^2.0.0"
 
 "vfile@^4.0.0":
-  "integrity" "sha512-O6AE4OskCG5S1emQ/4gl8zK586RqA3srz3nfK/Viy0UPToBc5Trp9BVFb1u0CjsKrAWwnpr4ifM/KBXPWwJbCA=="
-  "resolved" "https://registry.npmjs.org/vfile/-/vfile-4.2.1.tgz"
+  "integrity" "sha1-A/Hc4o/GJcYlvGUUNQ+9sA+p5iQ="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/vfile/-/vfile-4.2.1.tgz"
   "version" "4.2.1"
   dependencies:
     "@types/unist" "^2.0.0"
@@ -13801,7 +13822,7 @@
   dependencies:
     "mkdirp" "^0.5.1"
 
-"ws@*", "ws@7.4.5":
+"ws@*", "ws@^7.3.0", "ws@7.4.5":
   "integrity" "sha512-xzyu3hFvomRfXKH8vOFMU3OguG6oOvhXMo3xsGy3xWExqaM2dxBbVxuD99O7m3ZUFMvvscsZDqxfgMaRr/Nr1g=="
   "resolved" "https://registry.npmjs.org/ws/-/ws-7.4.5.tgz"
   "version" "7.4.5"
@@ -13817,11 +13838,6 @@
   "version" "6.2.2"
   dependencies:
     "async-limiter" "~1.0.0"
-
-"ws@^7.3.0":
-  "integrity" "sha512-6ezXvzOZupqKj4jUqbQ9tXuJNo+BR2gU8fFRk3XCP3e0G6WT414u5ELe6Y0vtp7kmSJ3F7YWObSNr1ESsgi4vw=="
-  "resolved" "https://registry.npmjs.org/ws/-/ws-7.5.0.tgz"
-  "version" "7.5.0"
 
 "ws@~7.4.2":
   "integrity" "sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A=="
@@ -14013,8 +14029,8 @@
   "version" "0.1.0"
 
 "yoga-layout-prebuilt@^1.9.6":
-  "integrity" "sha512-YnOmtSbv4MTf7RGJMK0FvZ+KD8OEe/J5BNnR0GHhD8J/XcG/Qvxgszm0Un6FTHWW4uHlTgP0IztiXQnGyIR45g=="
-  "resolved" "https://registry.npmjs.org/yoga-layout-prebuilt/-/yoga-layout-prebuilt-1.10.0.tgz"
+  "integrity" "sha1-KTb7r0s2KO4LPjsd9Ek21sFG+qY="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/yoga-layout-prebuilt/-/yoga-layout-prebuilt-1.10.0.tgz"
   "version" "1.10.0"
   dependencies:
     "@types/yoga-layout" "1.9.2"
@@ -14031,6 +14047,6 @@
     "strip-ansi" "^5.2.0"
 
 "zwitch@^1.0.0":
-  "integrity" "sha512-V50KMwwzqJV0NpZIZFwfOD5/lyny3WlSzRiXgA0G7VUnRlqttta1L6UQIHzd6EuBY/cHGfwTIck7w1yH6Q5zUw=="
-  "resolved" "https://registry.npmjs.org/zwitch/-/zwitch-1.0.5.tgz"
+  "integrity" "sha1-0R1zgf/tFrdC9q97PyI9XNn+mSA="
+  "resolved" "https://artifactory.global.square/artifactory/api/npm/square-npm/zwitch/-/zwitch-1.0.5.tgz"
   "version" "1.0.5"
