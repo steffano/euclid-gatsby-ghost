@@ -21,7 +21,7 @@ gatsby new gatsby-starter-ghost https://github.com/steffano/euclid-gatsby-ghost/
 ```bash
 # From Source
 git clone https://github.com/steffano/euclid-gatsby-ghost/
-cd gatsby-starter-ghost
+cd euclid-gatsby-ghost
 ```
 
 Then install dependencies
