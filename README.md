@@ -15,12 +15,12 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 
 ```bash
 # With Gatsby CLI
-gatsby new gatsby-starter-ghost https://github.com/TryGhost/gatsby-starter-ghost.git
+gatsby new gatsby-starter-ghost https://github.com/steffano/euclid-gatsby-ghost/
 ```
 
 ```bash
 # From Source
-git clone https://github.com/TryGhost/gatsby-starter-ghost.git
+git clone https://github.com/steffano/euclid-gatsby-ghost/
 cd gatsby-starter-ghost
 ```
 
