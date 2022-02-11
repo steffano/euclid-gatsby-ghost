@@ -1172,6 +1172,11 @@ h6 {
 
   /* Custom Styles
 /* ---------------------------------------------------------- */
+
+.site-main {
+    text-align: center;
+}
+
 .typeform-widget iframe {
     width: 100%;
     height: 666px;
