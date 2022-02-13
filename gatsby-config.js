@@ -178,6 +178,7 @@ module.exports = {
                     `/404`,
                     `/404.html`,
                     `/offline-plugin-app-shell-fallback`,
+                    '/test-page',
                 ],
                 createLinkInHead: true,
                 addUncaughtPages: true,
